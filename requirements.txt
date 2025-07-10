@@ -1,9 +1,11 @@
+
+opencv-python
 streamlit
 opencv-python
-numpy
-pillow
-scikit-learn
-tensorflow-cpu
+numpy==1.23.5
+pillow==9.5.0
+scikit-learn==1.1.3
+tensorflow-cpu==2.10.1
 google-generativeai
 
 
