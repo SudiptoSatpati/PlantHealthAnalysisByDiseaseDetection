@@ -3,5 +3,8 @@ opencv-python
 numpy
 pillow
 scikit-learn
-tensorflow
+tensorflow-cpu
 google-generativeai
+
+
+
