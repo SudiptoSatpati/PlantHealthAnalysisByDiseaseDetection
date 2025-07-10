@@ -12,7 +12,7 @@ model = genai.GenerativeModel("gemini-2.0-flash-001")
 
 def get_remedies(disease, deficiency):
     prompt = f"""
-    Suggest remedies and solutions for the following issues in coffee plants:
+    Suggest remedies and solutions for the following issues in coffee plants , also add any checmial substance they can use without harming the environment much:
 
     - Disease: {disease}
     - Nutrient Deficiency: {deficiency}
