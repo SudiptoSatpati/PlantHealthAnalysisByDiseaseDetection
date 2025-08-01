@@ -5,3 +5,4 @@ pillow
 scikit-learn
 tensorflow-cpu==2.16.1  # Use a more recent version that supports Python 3.12
 google-generativeai
+python-dotenv>=1.0.0
