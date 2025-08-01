@@ -1,4 +1,4 @@
-opencv-python
+opencv-python-headless==4.8.1.78
 streamlit  
 numpy<2.0  # Important for TensorFlow compatibility
 pillow
