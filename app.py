@@ -394,10 +394,7 @@ with st.sidebar:
     st.markdown("""
     <div class="sidebar-section">
         <div class="sidebar-title">🌾 Supported Plants</div>
-        <p>• Vegetables & Herbs</p>
-        <p>• Fruit Trees</p>
-        <p>• Ornamental Plants</p>
-        <p>• Agricultural Crops</p>
+        <p>• Coffee</p>
     </div>
     """, unsafe_allow_html=True)
 
